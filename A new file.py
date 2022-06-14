@@ -3,9 +3,6 @@
 
 # ANOTHER CHANGE
 
-
-
-
 class JamieFoxShow:
 
     def __init__(self, name, time, location, rating):
@@ -21,3 +18,4 @@ class JamieFoxShow:
 
     class seatedSeats
 
+# needs to be committed
