@@ -15,6 +15,7 @@ class Person:
 class Student(Person):
     pass
 
+
 # Add the _init_ function
 class Transfer(Person):
     pass
@@ -22,6 +23,3 @@ class Transfer(Person):
 
 x = Student("Mike", "Olsen", "123")
 x.printname()
-
-
-
